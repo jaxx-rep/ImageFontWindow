@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ImageFontWindow.WPF</id>
+    <version>0.0.1</version>
+    <authors>Fred Jacobs</authors>
+    <owners>Fred Jacobs</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample WPF hosting for ImageFontWindow</description>
+    <releaseNotes>Beta release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <dependencies>
+      <dependency id="ImageFontWindow" version="0.0.1"/>
+    </dependencies>
+  </metadata>
+</package>
